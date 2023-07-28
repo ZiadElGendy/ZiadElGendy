@@ -3,8 +3,8 @@
 <h2>What I'm up to right now...</h2>
 <list>
   <ul><p>🌐 Learing Web Dev, currently Front-End only but working towards Full-Stack.</p></ul>
-  <ul><p>🎮 Making silly little games, mainly in Unity</p></ul>
-  <ul><p>⁉️ Whatever else I end up hyperfixating on :D</p></ul>
+  <ul><p>🎮 Making silly little games, mainly in Unity.</p></ul>
+  <ul><p>⁉️ Whatever else I end up hyperfixating on. :D</p></ul>
 </list>
 <h2>Tech I use...</h2>
 <div>
