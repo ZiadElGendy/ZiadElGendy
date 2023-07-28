@@ -2,7 +2,7 @@
 <p align = "center">Currently a third year <em>Computer Engineering</em> student in the <a href="https://www.guc.edu.eg/">GUC </a><img src="https://www.guc.edu.eg/20years/img/emblem-guc.png" height="15">, interested in learning more about programming as well as a bunch of other things!</p>
 <h2>What I'm up to right now...</h2>
 <list>
-  <ul><p>🌐 Learing Web Dev, currently Front-End only but working towards Full-Stack.</p></ul>
+  <ul><p>🌐 Learning Web Dev, currently Front-End only but working towards Full-Stack.</p></ul>
   <ul><p>🎮 Making silly little games, mainly in Unity.</p></ul>
   <ul><p>⁉️ Whatever else I end up hyperfixating on. :D</p></ul>
 </list>
@@ -13,8 +13,8 @@
 </div>
 <div>
   <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/java-%23007396.svg?&style=flat&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/dot--net-%23512BD4.svg?&style=flat&logo=dot-net&logoColor=white" />
+  <img src="https://img.shields.io/badge/java-teal?logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/c%23-indigo?logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/unity-%23000000.svg?&style=flat&logo=unity&logoColor=white" />
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=flat&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?&style=flat&logo=css3&logoColor=white" />
