@@ -18,7 +18,6 @@
   <img src="https://img.shields.io/badge/unity-%23000000.svg?&style=flat&logo=unity&logoColor=white" />
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=flat&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?&style=flat&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/bootstrap-%237952B3.svg?&style=flat&logo=bootstrap&logoColor=white" />
 </div>
 <div>
   <img src="https://img.shields.io/badge/jetbrains-%23000000.svg?&style=flat&logo=jetbrains&logoColor=white" />
