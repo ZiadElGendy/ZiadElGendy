@@ -10,6 +10,7 @@
 <div>
   <img src="https://img.shields.io/badge/github-%23181717.svg?&style=flat&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/itch.io-%23FA5C5C.svg?&style=flat&logo=itch.io&logoColor=white" />
+  <span><- Link in my bio!</span>
 </div>
 <div>
   <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=flat&logo=python&logoColor=white"/>
