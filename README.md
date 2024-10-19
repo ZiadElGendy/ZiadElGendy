@@ -18,19 +18,19 @@
   <img src="https://img.shields.io/badge/c%23-indigo?logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=flat&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/java-teal?logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" />
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?logo=javascript&logoColor=000" />
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=flat&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?&style=flat&logo=css3&logoColor=white" />
 </div>
 <div>
   <img src="https://img.shields.io/badge/unity-%23000000.svg?&style=flat&logo=unity&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/tailwind%20css-%2338B2AC.svg?logo=tailwind-css&logoColor=white" />
 </div>
 <div>
   <img src="https://img.shields.io/badge/jetbrains-%23000000.svg?&style=flat&logo=jetbrains&logoColor=white" />
-  <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux%20Mint-87CF3E?logo=linuxmint&logoColor=fff" />
+  <img src="https://custom-icon-badges.demolab.com/badge/visual%20studio%20code-0078d7.svg?logo=vsc&logoColor=white"/>
+  <img src="https://img.shields.io/badge/linux%20mint-87CF3E?logo=linuxmint&logoColor=fff" />
   <img src="https://img.shields.io/badge/notion-%23000000.svg?&style=flat&logo=notion&logoColor=white" />
 </div>
 
