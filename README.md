@@ -15,7 +15,7 @@
   <span><- Link in my bio!</span>
 </div>
 <div>
-  <img src="https://img.shields.io/badge/c%23-indigo?logo=csharp&logoColor=white" />
+  <img src="https://custom-icon-badges.demolab.com/badge/c%23-%23239120.svg?logo=cshrp&logoColor=white" />
   <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=flat&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/java-teal?logo=oracle&logoColor=white" />
   <img src="https://img.shields.io/badge/javascript-F7DF1E?logo=javascript&logoColor=000" />
