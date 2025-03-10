@@ -5,7 +5,7 @@
 <list>
   <ul><p>🎮 Making silly little games, mainly in Unity.</p></ul>
   <ul><p>🌐 Learning full-stack Web Dev, currently focusing on the MERN stack.</p></ul>
-  <ul><p>⁉️ Whatever else I end up hyperfixating on. :D</p></ul>
+  <ul><p>🎨 Figuring out graphics programming and OpenGL :D</p></ul>
 </list>
 
 <h2>Tech I use...</h2>
