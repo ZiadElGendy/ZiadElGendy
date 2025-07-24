@@ -34,11 +34,6 @@
   <img src="https://img.shields.io/badge/notion-%23000000.svg?&style=flat&logo=notion&logoColor=white" />
 </div>
 
-<h2>Other fun stuff...</h2>
-<div>
-  <a href = "https://www.instagram.com/jermafan2003/">
-  <img alt="art account" src="https://img.shields.io/badge/instagram-my_art!-deeppink?style=flat&logo=instagram&logoColor=orange">
-</div>
 <div>
   <a href = "https://soundcloud.com/stayedfiddle">
   <img alt="Soundcloud" src="https://img.shields.io/badge/soundcloud-my_music!-darkorange?style=flat&logo=soundcloud&logoColor=orange">
