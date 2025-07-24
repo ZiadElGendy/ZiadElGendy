@@ -34,11 +34,6 @@
   <img src="https://img.shields.io/badge/notion-%23000000.svg?&style=flat&logo=notion&logoColor=white" />
 </div>
 
-<div>
-  <a href = "https://soundcloud.com/stayedfiddle">
-  <img alt="Soundcloud" src="https://img.shields.io/badge/soundcloud-my_music!-darkorange?style=flat&logo=soundcloud&logoColor=orange">
-</div>
-
 <br/>
 
 <img src = "https://github.com/ZiadElGendy/ZiadElGendy/assets/108495973/42166e9c-2472-4e03-bf60-757e4cef777d" alt ="ASCII Art Credit: http://anime.en.utf8art.com/arc/hatsune_miku_15.html">
